@@ -1,6 +1,5 @@
 Quantity | Ingredients
 -------------| --------------
-
 1/2 cup | unsalted butter (room temperature) (115g)
 1 1/2 cups | white granulated sugar (300g)
 2 | Large eggs (add one at a time)
