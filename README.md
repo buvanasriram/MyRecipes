@@ -1,5 +1,5 @@
 # RED VELVET CAKE
 ---------------
-## [Ingredients] (ingredients.md)
+## [Ingredients] (https://github.com/buvanasriram/MyRecipes/blob/main/ingredients.md)
 -----------
-## [Recipe] (recipe.md)
+## [Recipe] (https://github.com/buvanasriram/MyRecipes/blob/main/recipe.md)
