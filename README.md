@@ -1,2 +1,5 @@
-# maggi1
- This is recipe is of a different type of noodles called maggi.
+# RED VELVET CAKE
+---------------
+## [Ingredients] (ingredients.md)
+-----------
+## [Recipe] (recipe.md)
