@@ -1,6 +1,6 @@
 # RED VELVET CAKE
 ------------------
-
+![yummy](redvelvet.png)
 [Ingredients](ingredients.md)
 
 -----------
